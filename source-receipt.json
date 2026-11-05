@@ -2,26 +2,52 @@
   "repo": "tangyixiao/Shaoxingyizhong-img-xwzx-2025-oct",
   "sourceBranch": "main",
   "sourceCommit": null,
+  "designVersion": 3,
+  "direction": {
+    "visualConcept": "蜜金、茶棕与窗边光线的十月阅读室：以窗边课堂横片铺成宽阔底图，年份像图书扉页的烫金字压在留白区，另外两张照片置于右侧窄小的翻阅带。事实边界：只代表 2025 年 10 月路径分片，不给照片人物补身份和活动名称。",
+    "layout": "folio",
+    "palette": {
+      "light": {
+        "bg": "#E6D6B2",
+        "surface": "#FAF0D5",
+        "ink": "#48311D",
+        "muted": "#74593f",
+        "accent": "#84501f"
+      },
+      "dark": {
+        "bg": "#2B2114",
+        "surface": "#41311D",
+        "ink": "#FAEBCD",
+        "muted": "#c7ad83",
+        "accent": "#e7b65f"
+      }
+    },
+    "threeConcept": "Three.js 制作一个暖木倾斜阅读架，三幅真实照片装在可翻的厚纸页上，斜射阴影呼应实际窗光；物件不模拟照片里的空间。",
+    "distinctiveInteraction": "月份标签是固定范围，用户可用旁边两枚页签切换样本；点击“查看路径”展开出处抽屉，点击照片才打开原文件。"
+  },
   "media": [
     {
       "src": "assets/media/photo-1.webp",
       "alt": "学生集体活动，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-oct/blob/main/UploadFiles/xwzx/2025/10/202510221643284302.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-oct/blob/main/UploadFiles/xwzx/2025/10/202510221643284302.jpg",
+      "path": "UploadFiles/xwzx/2025/10/202510221643284302.jpg"
     },
     {
       "src": "assets/media/photo-2.webp",
       "alt": "教室里的学习日常，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-oct/blob/main/UploadFiles/xwzx/2025/10/202510280833239532.jpeg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-oct/blob/main/UploadFiles/xwzx/2025/10/202510280833239532.jpeg",
+      "path": "UploadFiles/xwzx/2025/10/202510280833239532.jpeg"
     },
     {
       "src": "assets/media/photo-3.webp",
       "alt": "教师交流，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-oct/blob/main/UploadFiles/xwzx/2025/10/202510101639276325.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-oct/blob/main/UploadFiles/xwzx/2025/10/202510101639276325.jpg",
+      "path": "UploadFiles/xwzx/2025/10/202510101639276325.jpg"
     }
   ],
   "skills": [
     "baoyu-design",
     "design-taste-frontend"
   ],
-  "design": "content-first source/product/photography; no rejected template or faux 3D"
+  "flagshipModel": null
 }
